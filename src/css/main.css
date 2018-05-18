@@ -1,0 +1,26 @@
+body {
+  color: #9c4188; }
+
+h1 {
+  color: #865186; }
+
+.container {
+  width: 100%;
+  height: 30vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  background: green; }
+
+p {
+  font-size: 6px;
+  background: blue;
+  width: 100%;
+  display: inline-block;
+  color: black;
+  font-weight: bold; }
+
+div {
+  width: 100px;
+  height: 100px; }
